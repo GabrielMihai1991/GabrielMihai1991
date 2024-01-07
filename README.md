@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development and graphic design.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects 
-- 📫 How to reach me:
-Tel: +40 742 778 457
+- 📫 How to reach me: <br/>
+Tel: +40 742 778 457 <br/>
 Email: gabriel.voinescu91@gmail.com
 
 <!---
